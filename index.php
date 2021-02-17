@@ -10,7 +10,7 @@ include("item.php");
 
 <head>
     <title>AuctionHelper</title>
-    <link rel="stylesheet" type="text/css" href="ah_styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
 <body>
