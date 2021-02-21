@@ -68,4 +68,10 @@
     <?php
 endif;
 ?>
+    <form action="index.php" method="post">
+        <label>Search for bidder:</label><br>
+        <input type="text" name="bidderid" size="14">
+        <input type="submit" value="find">
+        <input type="hidden" name="content" value="displaybidder">
+    </form>
 </table>
